@@ -1,0 +1,2234 @@
+[
+    {
+        "category" : "tv shows",
+        "question" : [ "205", "165", "1421", "166", "206" ],
+        "answer" : "him and her|him & her",
+        "hint1" : "3 words",
+        "hint2" : "Years: 2010–2013",
+        "hint3" : "Network: BBC3",
+        "anstext" : "<i>Him & Her</i> was a BAFTA-winning TV show that played on BBC3 from 2010 to 2013."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1459", "1457", "1458", "1459" ],
+        "answer" : "20 12|2012|twenty twelve|20 twelve|twenty 12",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2011–2012",
+        "hint3" : "Network: BBC2",
+        "anstext" : "<i>Twenty Twelve</i> was a BAFTA-winning TV show that played on BBC2 from 2011 to 2012."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "330", "1513", "205", "205" ],
+        "answer" : "mrs browns boys|mrs. browns boys|mrs brown's boys|mrs. brown's boys",
+        "hint1" : "3 words",
+        "hint2" : "Years: 2011–2020",
+        "hint3" : "Network: BBC1",
+        "anstext" : "<i>Mrs. Brown's Boys</i> was a BAFTA-winning TV show that played on BBC1 from 2011 to 2020."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "199", "1166" ],
+        "answer" : "peep show",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2003–2015",
+        "hint3" : "Network: Channel 4",
+        "anstext" : "<i>Peep Show</i> was a BAFTA-winning TV show that played on Channel 4 from 2003 to 2015."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1514", "1180", "1180" ],
+        "answer" : "black books",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2000–2004",
+        "hint3" : "Network: Channel 4",
+        "anstext" : "<i>Black Books</i> was a BAFTA-winning TV show that played on Channel 4 from 2000 to 2004."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1486", "1252", "385", "1453", "1453" ],
+        "answer" : "peaky blinders",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2013–2020",
+        "hint3" : "Network: BBC2",
+        "anstext" : "<i>Peaky Blinders</i> was a BAFTA-winning TV show that played on BBC2 from 2013 to 2020."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1475", "877", "815" ],
+        "answer" : "broadchurch",
+        "hint1" : "1 word",
+        "hint2" : "Years: 2013–2017",
+        "hint3" : "Network: ITV",
+        "anstext" : "<i>Broadchurch</i> was a BAFTA-winning TV show that played on ITV from 2013 to 2017."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "877" ],
+        "answer" : "the street|street",
+        "hint1" : "The (1 word)",
+        "hint2" : "Years: 2006–2009",
+        "hint3" : "Network: BBC1",
+        "anstext" : "<i>The Street</i> was a BAFTA-winning TV show that played on BBC1 from 2006 to 2009."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "260", "1427" ],
+        "answer" : "doctor who",
+        "hint1" : "2 words",
+        "hint2" : "Years: 1963–2020",
+        "hint3" : "Network: BBC1",
+        "anstext" : "<i>Doctor Who</i> was a BAFTA-winning TV show that played on BBC1 from 1963 to 2020."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "101", "101" ],
+        "answer" : "spooks",
+        "hint1" : "1 word",
+        "hint2" : "Years: 2002–2011",
+        "hint3" : "Network: BBC1",
+        "anstext" : "<i>Spooks</i> was a BAFTA-winning TV show that played on BBC1 from 2002 to 2011."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "980", "498" ],
+        "answer" : "cold feet",
+        "hint1" : "2 words",
+        "hint2" : "Years: 1997–2020",
+        "hint3" : "Network: ITV",
+        "anstext" : "<i>Cold Feet</i> was a BAFTA-winning TV show that played on ITV from 1997 to 2020."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "915", "320", "1416" ],
+        "answer" : "clocking off|clock king off",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2000–2003",
+        "hint3" : "Network: BBC1",
+        "anstext" : "<i>Clocking Off</i> was a BAFTA-winning TV show that played on BBC1 from 2000 to 2003."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "309", "309" ],
+        "answer" : "cops|the cops",
+        "hint1" : "The (1 word)",
+        "hint2" : "Years: 1998–2001",
+        "hint3" : "Network: BBC2",
+        "anstext" : "<i>The Cops</i> was a BAFTA-winning TV show that played on BBC2 from 1998 to 2001."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "153", "206", "1180" ],
+        "answer" : "handmaids tale|handmaid's tale|the handmaids tale|the handmaid's tale|hand maids tale|hand maid's tale|the hand maids tale|the hand maid's tale",
+        "hint1" : "The (2 words)",
+        "hint2" : "Years: 2017–2020",
+        "hint3" : "Network: Hulu",
+        "anstext" : "<i>The Handmaid's Tale</i> was an Emmy-winning TV show that played on Hulu from 2017 to 2020."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1048", "1298", "1298" ],
+        "answer" : "game thrones|game of thrones|got",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Years: 2011–2019",
+        "hint3" : "Network: HBO",
+        "anstext" : "<i>Game of Thrones</i> was an Emmy-winning TV show that played on HBO from 2011 to 2019."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "797", "777" ],
+        "answer" : "homeland|home land",
+        "hint1" : "1 word",
+        "hint2" : "Years: 2011–2020",
+        "hint3" : "Network: Showtime",
+        "anstext" : "<i>Homeland</i> was an Emmy-winning TV show that played on Showtime from 2011 to 2020."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "91", "379", "379" ],
+        "answer" : "mad men",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2007–2015",
+        "hint3" : "Network: AMC",
+        "anstext" : "<i>Mad Men</i> was an Emmy-winning TV show that played on AMC from 2007 to 2015."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1460", "1457", "792" ],
+        "answer" : "30 rock",
+        "hint1" : "2 words",
+        "hint2" : "Years: 2006–2013",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>30 Rock</i> was an Emmy-winning TV show that played on NBC from 2006 to 2013."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1459", "1461" ],
+        "answer" : "24",
+        "hint1" : "1 word",
+        "hint2" : "Years: 2001–2014",
+        "hint3" : "Network: Fox",
+        "anstext" : "<i>24</i> was an Emmy-winning TV show that played on Fox from 2001 to 2014."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "799" ],
+        "answer" : "office|the office",
+        "hint1" : "The (1 word)",
+        "hint2" : "Years: 2005–2013",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>The Office</i> was an Emmy-winning TV show that played on NBC from 2005 to 2013."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "309", "1421", "269" ],
+        "answer" : "law and order|law & order",
+        "hint1" : "3 words",
+        "hint2" : "Years: 1190–2010",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>Law & Order</i> was an Emmy-winning TV show that played on NBC from 1190 to 2010."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1011", "228", "228" ],
+        "answer" : "golden girls|the golden girls",
+        "hint1" : "The (2 words)",
+        "hint2" : "Years: 1985–1992",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>The Golden Girls</i> was an Emmy-winning TV show that played on NBC from 1985 to 1992."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "758" ],
+        "answer" : "cheers",
+        "hint1" : "1 word",
+        "hint2" : "Years: 1982–1993",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>Cheers</i> was an Emmy-winning TV show that played on NBC from 1982 to 1993."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "780", "877", "1511", "1511" ],
+        "answer" : "hill street blues",
+        "hint1" : "3 words",
+        "hint2" : "Years: 1981–1987",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>Hill Street Blues</i> was an Emmy-winning TV show that played on NBC from 1981 to 1987."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "857" ],
+        "answer" : "taxi",
+        "hint1" : "1 word",
+        "hint2" : "Years: 1982–1983",
+        "hint3" : "Network: ABC",
+        "anstext" : "<i>Taxi</i> was an Emmy-winning TV show that played on ABC from 1982 to 1983."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "309", "1180" ],
+        "answer" : "police story",
+        "hint1" : "2 words",
+        "hint2" : "Years: 1973–1987",
+        "hint3" : "Network: NBC",
+        "anstext" : "<i>Police Story</i> was an Emmy-winning TV show that played on NBC from 1973 to 1987."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "1143", "1456", "1473", "1456", "1290", "1456", "802" ],
+        "answer" : "mash|m a s h|m*a*s*h",
+        "hint1" : "1 word (4 letters)",
+        "hint2" : "Years: 1972–1983",
+        "hint3" : "Network: CBS",
+        "anstext" : "<i>M*A*S*H</i> was an Emmy-winning TV show that played on CBS from 1972 to 1983."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "186", "1315" ],
+        "answer" : "gunsmoke",
+        "hint1" : "1 word",
+        "hint2" : "Years: 1952–1961",
+        "hint3" : "Network: CBS",
+        "anstext" : "<i>Gunsmoke</i> was an Emmy-winning TV show that played on CBS from 1952 to 1961."
+    },
+    {
+        "category" : "tv shows",
+        "question" : [ "200", "119", "1298", "986" ],
+        "answer" : "i love lucy",
+        "hint1" : "3 words",
+        "hint2" : "Years: 1951–1957",
+        "hint3" : "Network: CBS",
+        "anstext" : "<i>I Love Lucy</i> was an Emmy-winning TV show that played on CBS from 1951 to 1957."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "970" ],
+        "answer" : "the tempest|tempest",
+        "hint1" : "The (1 word)",
+        "hint2" : "Year: 1611",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>The Tempest</i> is a play by William Shakespeare from 1611."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "980", "1180" ],
+        "answer" : "the winters tale|the winter's tale|winters tale|winter's tale",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1610",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>The Winter's Tale</i> is a play by William Shakespeare from 1610."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "1808", "320" ],
+        "answer" : "macbeth",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1605",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Macbeth</i> is a play by William Shakespeare from 1605."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "320", "894" ],
+        "answer" : "king lear",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1605",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>King Lear</i> is a play by William Shakespeare from 1605."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "1242", "1461", "1242" ],
+        "answer" : "measure for measure",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1604",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Measure for Measure</i> is a play by William Shakespeare from 1604."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "12", "330", "330", "811", "1807" ],
+        "answer" : "merry wives of windsor|the merry wives of windsor|merry wives windsor",
+        "hint1" : "The (2 words) of (1 word)",
+        "hint2" : "Year: 1600",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>The Merry Wives of Windsor</i> is a play by William Shakespeare from 1600."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "320", "1610" ],
+        "answer" : "hamlet",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1600",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Hamlet</i> is a play by William Shakespeare from 1600."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "320", "1664" ],
+        "answer" : "julius caesar",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1599",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Julius Caesar</i> is a play by William Shakespeare from 1599."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "1458", "1459", "824" ],
+        "answer" : "twelfth night|12th night",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1599",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Twelfth Night</i> is a play by William Shakespeare from 1599."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "320", "1298" ],
+        "answer" : "king john",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1596",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>King John</i> is a play by William Shakespeare from 1596."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "953", "824", "47", "150" ],
+        "answer" : "a midsummer night's dream|midsummer night's dream|a midsummer nights dream|midsummer nights dream",
+        "hint1" : "A (3 words)",
+        "hint2" : "Year: 1595",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>A Midsummer Night's Dream</i> is a play by William Shakespeare from 1595."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "1107", "1107", "1664", "825" ],
+        "answer" : "two gentlemen of verona|two gentlemen verona",
+        "hint1" : "(2 words) of (1 word)",
+        "hint2" : "Year: 1594",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Two Gentlemen of Verona</i> is a play by William Shakespeare from 1594."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "205", "133", "206" ],
+        "answer" : "romeo and juliet",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1594",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>Romeo and Juliet</i> is a play by William Shakespeare from 1594."
+    },
+    {
+        "category" : "plays",
+        "question" : [ "7", "1444", "1444" ],
+        "answer" : "the comedy of errors|the comedy errors|comedy errors|comedy of errors",
+        "hint1" : "The (1 word) of (1 word)",
+        "hint2" : "Year: 1589",
+        "hint3" : "Playwright: William Shakespeare",
+        "anstext" : "<i>The Comedy of Errors</i> is a play by William Shakespeare from 1589."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1260", "825", "1789" ],
+        "answer" : "the battle of new orleans|battle of new orleans|battle new orleans",
+        "hint1" : "The (1 word) of (2 words)",
+        "hint2" : "Year: 1960",
+        "hint3" : "Artist: Johnny Horton",
+        "anstext" : "<i>The Battle of New Orleans</i> by Johnny Horton won the Grammy Award for Best Song in 1960."
+    },
+    {
+        "category" : "song",
+        "question" : [ "940", "787" ],
+        "answer" : "moon river",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1962",
+        "hint3" : "Artist: Henry Mancini",
+        "anstext" : "<i>Moon River</i> by Henry Mancini won the Grammy Award for Best Song in 1962."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1230", "1230", "754", "1421", "624", "624" ],
+        "answer" : "days of wine and roses",
+        "hint1" : "(1 word) of (3 words)",
+        "hint2" : "Year: 1964",
+        "hint3" : "Artist: Henry Mancini",
+        "anstext" : "<i>Days of Wine and Roses</i> by Henry Mancini won the Grammy Award for Best Song in 1964."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1347", "1347", "1421", "1473", "877" ],
+        "answer" : "up, up and away|up up and away",
+        "hint1" : "4 words",
+        "hint2" : "Year: 1968",
+        "hint3" : "Artist: The 5th Dimension",
+        "anstext" : "<i>Up, Up and Away</i> by The 5th Dimension won the Grammy Award for Best Song in 1968."
+    },
+    {
+        "category" : "song",
+        "question" : [ "159", "652", "652" ],
+        "answer" : "little green apples",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1969",
+        "hint3" : "Artist: O.C. Smith",
+        "anstext" : "<i>Little Green Apples</i> by O.C. Smith won the Grammy Award for Best Song in 1969."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1048", "1048", "456", "1396" ],
+        "answer" : "games people play",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1970",
+        "hint3" : "Artist: Joe South",
+        "anstext" : "<i>Games People Play</i> by Joe South won the Grammy Award for Best Song in 1970."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1208", "1210", "98", "98" ],
+        "answer" : "send in the clowns|send in clowns",
+        "hint1" : "(2 words) the (1 word)",
+        "hint2" : "Year: 1976",
+        "hint3" : "Artist: Judy Collins",
+        "anstext" : "<i>Send In the Clowns</i> by Judy Collins won the Grammy Award for Best Song in 1976."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1479", "183", "1125", "1125" ],
+        "answer" : "i write the songs|i write songs",
+        "hint1" : "(2 words) the (1 word)",
+        "hint2" : "Year: 1977",
+        "hint3" : "Artist: Barry Manilow",
+        "anstext" : "<i>I Write the Songs</i> by Barry Manilow won the Grammy Award for Best Song in 1977."
+    },
+    {
+        "category" : "song",
+        "question" : [ "632" ],
+        "answer" : "evergreen",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1978",
+        "hint3" : "Artist: Barbara Streisand",
+        "anstext" : "<i>Evergreen</i> by Barbara Streisand won the Grammy Award for Best Song in 1978."
+    },
+    {
+        "category" : "song",
+        "question" : [ "887" ],
+        "answer" : "sailing",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1981",
+        "hint3" : "Artist: Christopher Cross",
+        "anstext" : "<i>Sailing</i> by Christopher Cross won the Grammy Award for Best Song in 1981."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1337", "66", "608", "12" ],
+        "answer" : "dont worry be happy|don't worry be happy|dont worry, be happy|don't worry, be happy",
+        "hint1" : "4 words",
+        "hint2" : "Year: 1989",
+        "hint3" : "Artist: Bobby McFerrin",
+        "anstext" : "<i>Don't Worry, Be Happy</i> by Bobby McFerrin won the Grammy Award for Best Song in 1989."
+    },
+    {
+        "category" : "song",
+        "question" : [ "877", "877", "825", "1789" ],
+        "answer" : "streets of philadelphia|streets philadelphia",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 1995",
+        "hint3" : "Artist: Bruce Springsteen",
+        "anstext" : "<i>Streets of Philadelphia</i> by Bruce Springsteen won the Grammy Award for Best Song in 1995."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1432", "772" ],
+        "answer" : "change the world|change world",
+        "hint1" : "(1 word) the (1 word)",
+        "hint2" : "Year: 1997",
+        "hint3" : "Artist: Eric Clapton",
+        "anstext" : "<i>Change the World</i> by Eric Clapton won the Grammy Award for Best Song in 1997."
+    },
+    {
+        "category" : "song",
+        "question" : [ "171", "1230" ],
+        "answer" : "beautiful Day",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2001",
+        "hint3" : "Artist: U2",
+        "anstext" : "<i>Beautiful Day</i> by U2 won the Grammy Award for Best Song in 2001."
+    },
+    {
+        "category" : "song",
+        "question" : [ "256", "1427" ],
+        "answer" : "dont know why|don't know why",
+        "hint1" : "3 words",
+        "hint2" : "Year: 2003",
+        "hint3" : "Artist: Norah Jones",
+        "anstext" : "<i>Don't Know Why</i> by Norah Jones won the Grammy Award for Best Song in 2003."
+    },
+    {
+        "category" : "song",
+        "question" : [ "170", "215", "215" ],
+        "answer" : "single ladies",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2010",
+        "hint3" : "Artist: Beyoncé",
+        "anstext" : "<i>Single Ladies</i> by Beyoncé won the Grammy Award for Best Song in 2010."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1362", "1210", "986" ],
+        "answer" : "rolling in the deep|rolling in deep",
+        "hint1" : "(2 words) the (1 word)",
+        "hint2" : "Year: 2012",
+        "hint3" : "Artist: Adele",
+        "anstext" : "<i>Rolling in the Deep</i> by Adele won the Grammy Award for Best Song in 2012."
+    },
+    {
+        "category" : "song",
+        "question" : [ "320", "321" ],
+        "answer" : "royals",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2014",
+        "hint3" : "Artist: Lorde",
+        "anstext" : "<i>Royals</i> by Lorde won the Grammy Award for Best Song in 2014."
+    },
+    {
+        "category" : "song",
+        "question" : [ "150", "1119" ],
+        "answer" : "thinking out loud",
+        "hint1" : "3 words",
+        "hint2" : "Year: 2016",
+        "hint3" : "Artist: Ed Sheeran",
+        "anstext" : "<i>Thinking Out Loud</i> by Ed Sheeran won the Grammy Award for Best Song in 2016."
+    },
+    {
+        "category" : "song",
+        "question" : [ "152" ],
+        "answer" : "hello",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2017",
+        "hint3" : "Artist: Adele",
+        "anstext" : "<i>Hello</i> by Adele won the Grammy Award for Best Song in 2017."
+    },
+    {
+        "category" : "song",
+        "question" : [ "1239", "1789" ],
+        "answer" : "this is america",
+        "hint1" : "3 words",
+        "hint2" : "Year: 2019",
+        "hint3" : "Artist: Childish Gambino",
+        "anstext" : "<i>This is America</i> by Childish Gambino won the Grammy Award for Best Song in 2019."
+    },
+    {
+        "category" : "song",
+        "question" : [ "172", "205" ],
+        "answer" : "bad guy",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2020",
+        "hint3" : "Artist: Billie Eilish",
+        "anstext" : "<i>Bad Guy</i> by Billie Eilish won the Grammy Award for Best Song in 2020."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1119", "1126" ],
+        "answer" : "the sound of music|sound of music|sound music",
+        "hint1" : "The (1 word) of (1 word)",
+        "hint2" : "Year: 1960",
+        "hint3" : "Composer: Richard Rodgers",
+        "anstext" : "<i>The Sound of Music</i> by Richard Rodgers won the Tony Award for Best Musical in 1960."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "171", "825" ],
+        "answer" : "wonderful town",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1953",
+        "hint3" : "Composer: Leonard Bernstein",
+        "anstext" : "<i>Wonderful Town</i> by Leonard Bernstein won the Tony Award for Best Musical in 1953."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "99", "835" ],
+        "answer" : "sweeney todd|demon barber",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1979",
+        "hint3" : "Composer: Stephen Sondheim",
+        "anstext" : "<i>Sweeney Todd: The Demon Barber of Fleet Street</i> by Stephen Sondheim won the Tony Award for Best Musical in 1979."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "829", "877" ],
+        "answer" : "sunset boulevard",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1995",
+        "hint3" : "Composer: Andrew Lloyd Webber",
+        "anstext" : "<i>Sunset Boulevard</i> by Andrew Lloyd Webber won the Tony Award for Best Musical in 1995."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "630", "912" ],
+        "answer" : "spring awakening",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2007",
+        "hint3" : "Composer: Duncan Sheik",
+        "anstext" : "<i>Spring Awakening</i> by Duncan Sheik won the Tony Award for Best Musical in 2007."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1458", "1464", "1464", "1463" ],
+        "answer" : "1776",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1969",
+        "hint3" : "Composer: Sherman Edwards",
+        "anstext" : "<i>1776</i> by Sherman Edwards won the Tony Award for Best Musical in 1969."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "216" ],
+        "answer" : "redhead|red head",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1959",
+        "hint3" : "Composer: Albert Hague",
+        "anstext" : "<i>Redhead</i> by Albert Hague won the Tony Award for Best Musical in 1959."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1466" ],
+        "answer" : "nine|9",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1982",
+        "hint3" : "Composer: Maury Yeston",
+        "anstext" : "<i>Nine</i> by Maury Yeston won the Tony Award for Best Musical in 1982."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1126", "379" ],
+        "answer" : "music man|the music man",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1958",
+        "hint3" : "Composer: Meredith Willson",
+        "anstext" : "<i>The Music Man</i> by Meredith Willson won the Tony Award for Best Musical in 1958."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "159", "824", "1126" ],
+        "answer" : "little night music|a little night music",
+        "hint1" : "A (3 words)",
+        "hint2" : "Year: 1973",
+        "hint3" : "Composer: Stephen Sondheim",
+        "anstext" : "<i>A Little Night Music</i> by Stephen Sondheim won the Tony Award for Best Musical in 1973."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1628", "79" ],
+        "answer" : "les mis|les miserables",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1987",
+        "hint3" : "Composer: Claude-Michel Schönberg",
+        "anstext" : "<i>Les Miserables</i> by Claude-Michel Schönberg won the Tony Award for Best Musical in 1987."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "17", "613", "215" ],
+        "answer" : "kiss of the spider woman|kiss of the spiderwoman|kiss spider woman|kiss spiderwoman|kiss of spider woman|kiss of spiderwoman",
+        "hint1" : "(1 word) of the (2 words)",
+        "hint2" : "Year: 1993",
+        "hint3" : "Composer: John Kander",
+        "anstext" : "<i>Kiss of the Spider Woman</i> by John Kander won the Tony Award for Best Musical in 1993."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "17", "245", "321" ],
+        "answer" : "kiss me, kate|kiss me kate",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1949",
+        "hint3" : "Composer: Cole Porter",
+        "anstext" : "<i>Kiss Me, Kate</i> by Cole Porter won the Tony Award for Best Musical in 1949."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "320", "1252", "1099", "1099" ],
+        "answer" : "kinky boots",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2013",
+        "hint3" : "Composer: Cyndi Lauper",
+        "anstext" : "<i>Kinky Boots</i> by Cyndi Lauper won the Tony Award for Best Musical in 2013."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "320", "1421", "1479" ],
+        "answer" : "the king and i|king and i",
+        "hint1" : "The (3 words)",
+        "hint2" : "Year: 1952",
+        "hint3" : "Composer: Richard Rodgers",
+        "anstext" : "<i>The King and I</i> by Richard Rodgers won the Tony Award for Best Musical in 1952."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1665", "205", "205" ],
+        "answer" : "jersey boys",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2006",
+        "hint3" : "Composer: Bob Gaudio and Bob Crewe",
+        "anstext" : "<i>Jersey Boys</i> by Bob Gaudio and Bob Crewe won the Tony Award for Best Musical in 2006."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "152", "537" ],
+        "answer" : "hello, dolly!|hello, dolly|hello dolly!|hello dolly",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1964",
+        "hint3" : "Composer: Jerry Herman",
+        "anstext" : "<i>Hello, Dolly!</i> by Jerry Herman won the Tony Award for Best Musical in 1964."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1725", "825" ],
+        "answer" : "hamilton",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2016",
+        "hint3" : "Composer: Lin-Manuel Miranda",
+        "anstext" : "<i>Hamilton</i> by Lin-Manuel Miranda won the Tony Award for Best Musical in 2016."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "178", "203" ],
+        "answer" : "hallelujah, baby!|hallelujah, baby|hallelujah baby|hallelujah baby!",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1968",
+        "hint3" : "Composer: Jule Styne",
+        "anstext" : "<i>Hallelujah, Baby!</i> by Jule Styne won the Tony Award for Best Musical in 1968."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "499", "1300" ],
+        "answer" : "hairspray|hair spray",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2003",
+        "hint3" : "Composer: Marc Shaiman",
+        "anstext" : "<i>Hairspray</i> by Marc Shaiman won the Tony Award for Best Musical in 2003."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "93", "825" ],
+        "answer" : "hadestown|hades town",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2019",
+        "hint3" : "Composer: Anaïs Mitchell",
+        "anstext" : "<i>Hadestown</i> by Anaïs Mitchell won the Tony Award for Best Musical in 2019."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "205", "205", "1421", "1055" ],
+        "answer" : "guys & dolls|guys + dolls|guys and dolls",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1951",
+        "hint3" : "Composer: Frank Loesser",
+        "anstext" : "<i>Guys and Dolls</i> by Frank Loesser won the Tony Award for Best Musical in 1951."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1107", "776", "1349", "119", "1421", "1259" ],
+        "answer" : "a gentlemans guide to love and murder|gentleman's guide to love and murder|a gentleman's guide to love and murder|gentlemans guide to love and murder",
+        "hint1" : "A (6 words)",
+        "hint2" : "Year: 2014",
+        "hint3" : "Composer: Steven Lutvak",
+        "anstext" : "<i>A Gentleman's Guide to Love and Murder</i> by Steven Lutvak won the Tony Award for Best Musical in 2014."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "26", "797" ],
+        "answer" : "fun home|funhome",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2015",
+        "hint3" : "Composer: Jeanine Tesori",
+        "anstext" : "<i>Fun Home</i> by Jeanine Tesori won the Tony Award for Best Musical in 2015."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1461", "1459", "877" ],
+        "answer" : "42nd street|42nd st",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1981",
+        "hint3" : "Composer: Harry Warren",
+        "anstext" : "<i>42nd Street</i> by Harry Warren won the Tony Award for Best Musical in 1981."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1139", "1371" ],
+        "answer" : "fiddler|fiddler on the roof",
+        "hint1" : "(1 word) on the (1 word)",
+        "hint2" : "Year: 1965",
+        "hint3" : "Composer: Jerry Bock",
+        "anstext" : "<i>Fiddler on the Roof</i> by Jerry Bock won the Tony Award for Best Musical in 1965."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "1559", "321" ],
+        "answer" : "evita",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1980",
+        "hint3" : "Composer: Andrew Lloyd Webber",
+        "anstext" : "<i>Evita</i> by Andrew Lloyd Webber won the Tony Award for Best Musical in 1980."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "825", "338", "338" ],
+        "answer" : "city of angels|city angels",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 1990",
+        "hint3" : "Composer: Cy Coleman",
+        "anstext" : "<i>City of Angels</i> by Cy Coleman won the Tony Award for Best Musical in 1990."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "399", "400" ],
+        "answer" : "a chorus line|chorus line",
+        "hint1" : "A (2 words)",
+        "hint2" : "Year: 1976",
+        "hint3" : "Composer: Marvin Hamlisch",
+        "anstext" : "<i>A Chorus Line</i> by Marvin Hamlisch won the Tony Award for Best Musical in 1976."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "516", "516" ],
+        "answer" : "cats",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1983",
+        "hint3" : "Composer: Andrew Lloyd Webber",
+        "anstext" : "<i>Cats</i> by Andrew Lloyd Webber won the Tony Award for Best Musical in 1983."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "152", "152", "571" ],
+        "answer" : "bye bye birdie|byebye birdie",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1961",
+        "hint3" : "Composer: Charles Strouse",
+        "anstext" : "<i>Bye Bye Birdie</i> by Charles Strouse won the Tony Award for Best Musical in 1961."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "205", "1103" ],
+        "answer" : "billy elliot|billy eilliott",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2009",
+        "hint3" : "Composer: Elton John",
+        "anstext" : "<i>Billy Elliot the Musical</i> by Elton John won the Tony Award for Best Musical in 2009."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "177" ],
+        "answer" : "applause",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1970",
+        "hint3" : "Composer: Charles Strouse",
+        "anstext" : "<i>Applause</i> by Charles Strouse won the Tony Award for Best Musical in 1970."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "206", "499" ],
+        "answer" : "annie",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1977",
+        "hint3" : "Composer: Charles Strouse",
+        "anstext" : "<i>Annie</i> by Charles Strouse won the Tony Award for Best Musical in 1977."
+    },
+    {
+        "category" : "musicals",
+        "question" : [ "" ],
+        "answer" : "",
+        "hint1" : "",
+        "hint2" : "Year: ",
+        "hint3" : "Composer: ",
+        "anstext" : "<i></i> by  won the Tony Award for Best Musical in ."
+    },
+    {
+        "category" : "books",
+        "question" : [ "171", "824", "940" ],
+        "answer" : "goodnight moon|good night moon",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1991",
+        "hint3" : "Author: Margaret Wise Brown",
+        "anstext" : "<i>Goodnight Moon</i> by Margaret Wise Brown was #32 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "513", "1210", "1082" ],
+        "answer" : "fox in socks",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1965",
+        "hint3" : "Author: Dr Seuss",
+        "anstext" : "<i>Fox in Socks</i> by Dr Seuss was #31 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1180", "577" ],
+        "answer" : "tale of jemima puddleduck|the tale of jemima puddleduck|tale of jemima puddle duck|the tale of jemima puddle duck",
+        "hint1" : "The (1 word) of (2 words)",
+        "hint2" : "Year: 1908",
+        "hint3" : "Author: Beatrix Potter",
+        "anstext" : "<i>The Tale of Jemima Puddleduck</i> by Beatrix Potter was #29 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "974", "598" ],
+        "answer" : "the rainbow fish|rainbow fish",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1992",
+        "hint3" : "Author: Marcus Pfister",
+        "anstext" : "<i>The Rainbow Fish</i> by Marcus Pfister was #25 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1180", "1475", "551" ],
+        "answer" : "the tale of benjamin bunny|tale of benjamin bunny|benjamin bunny",
+        "hint1" : "The (1 word) of (2 words)",
+        "hint2" : "Year: 1904",
+        "hint3" : "Author: Beatrix Potter",
+        "anstext" : "<i>The Tale of Benjamin Bunny</i> by Beatrix Potter was #23 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1174", "1210", "1473", "1443" ],
+        "answer" : "a light in the attic|light in the attic|light in attic|a light in attic",
+        "hint1" : "A (2 words) the (1 word)",
+        "hint2" : "Year: 1981",
+        "hint3" : "Author: Shel Silverstein",
+        "anstext" : "<i>A Light in the Attic</i> by Shel Silverstein was #22 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "205", "979", "348", "792" ],
+        "answer" : "harry potter and the sorceror's stone|harry potter and the philosopher's stone|harry potter and the sorcerors stone|harry potter and the philosophers stone|harry potter and the sorceror's stone|harry potter and the philosopher's stone|harry potter and sorcerors stone|harry potter and philosophers stone|harry potter and the sorceror's stone|harry potter and the philosopher's stone|sorcerors stone|philosophers stone",
+        "hint1" : "(3 words) the (2 words)",
+        "hint2" : "Year: 1998",
+        "hint3" : "Author: J.K. Rowling",
+        "anstext" : "<i>Harry Potter and the Philosopher's Stone</i> by J.K. Rowling was #19 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "205", "133", "632" ],
+        "answer" : "the giving tree|giving tree",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1964",
+        "hint3" : "Author: Shel Silverstein",
+        "anstext" : "<i>The Giving Tree</i> by Shel Silverstein was #14 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1458", "598", "1459", "598", "1507", "598", "1511", "598" ],
+        "answer" : "one fish two fish red fish blue fish|one fish, two fish, red fish, blue fish|1 fish 2 fish red fish blue fish|1 fish, 2 fish, red fish, blue fish",
+        "hint1" : "8 words",
+        "hint2" : "Year: 1960",
+        "hint3" : "Author: Dr Seuss",
+        "anstext" : "<i>One Fish, Two Fish, Red Fish, Blue Fish</i> by Dr Seuss was #13 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "516", "1210", "1107" ],
+        "answer" : "the cat in the hat|cat in the hat|cat in hat",
+        "hint1" : "The (2 words) the (1 word)",
+        "hint2" : "Year: 1957",
+        "hint3" : "Author: Dr Seuss",
+        "anstext" : "<i>The Cat in the Hat</i> by Dr Seuss was #9 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1510", "700", "700", "1421", "689" ],
+        "answer" : "green eggs & ham|green eggs + ham|green eggs and ham",
+        "hint1" : "4 words",
+        "hint2" : "Year: 1960",
+        "hint3" : "Author: Dr Seuss",
+        "anstext" : "<i>Green Eggs and Ham</i> by Dr Seuss was #4 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1180", "1486", "552" ],
+        "answer" : "the tale of peter rabbit|tale of peter rabbit|tale peter rabbit|peter rabbit",
+        "hint1" : "The (1 word) of (2 words)",
+        "hint2" : "Year: 1902",
+        "hint3" : "Author: Beatrix Potter",
+        "anstext" : "<i>The Tale of Peter Rabbit</i> by Beatrix Potter was #2 on the Publishers Weekly list of all-time best-selling children's books."
+    },
+    {
+        "category" : "books",
+        "question" : [ "624", "985" ],
+        "answer" : "rosewater|rose water",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2019",
+        "hint3" : "Author: Tade Thompson",
+        "anstext" : "<i>Rosewater</i> by Tade Thompson won the Arthur C. Clarke award in 2019."
+    },
+    {
+        "category" : "books",
+        "question" : [ "842", "878" ],
+        "answer" : "the underground railroad|underground railroad",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2017",
+        "hint3" : "Author: Colson Whitehead",
+        "anstext" : "<i>The Underground Railroad</i> by Colson Whitehead won the Arthur C. Clarke award in 2017."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1335", "914" ],
+        "answer" : "children time|children of time",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 2016",
+        "hint3" : "Author: Adrian Tchaikovsky",
+        "anstext" : "<i>Children of Time</i> by Adrian Tchaikovsky won the Arthur C. Clarke award in 2016."
+    },
+    {
+        "category" : "books",
+        "question" : [ "844", "938" ],
+        "answer" : "station 11|station eleven",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2015",
+        "hint3" : "Author: Emily St John Mandel",
+        "anstext" : "<i>Station Eleven</i> by Emily St John Mandel won the Arthur C. Clarke award in 2015."
+    },
+    {
+        "category" : "books",
+        "question" : [ "825", "1421", "825" ],
+        "answer" : "city and city|city city|the city and city|city and the city",
+        "hint1" : "The (2 words) the (1 word)",
+        "hint2" : "Year: 2010",
+        "hint3" : "Author: China Mieville",
+        "anstext" : "<i>The City and the City</i> by China Mieville won the Arthur C. Clarke award in 2010."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1125", "914" ],
+        "answer" : "song of time|song time",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 2009",
+        "hint3" : "Author: Ian R. MacLeod",
+        "anstext" : "<i>Song of Time</i> by Ian R. MacLeod won the Arthur C. Clarke award in 2009."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1514", "379" ],
+        "answer" : "black man",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2008",
+        "hint3" : "Author: Richard K. Morgan",
+        "anstext" : "<i>Black Man</i> by Richard K. Morgan won the Arthur C. Clarke award in 2008."
+    },
+    {
+        "category" : "books",
+        "question" : [ "47", "150", "1210", "1315" ],
+        "answer" : "dreaming in smoke",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1999",
+        "hint3" : "Author: Tricia Sullivan",
+        "anstext" : "<i>Dreaming in Smoke</i> by Tricia Sullivan won the Arthur C. Clarke award in 1999."
+    },
+    {
+        "category" : "books",
+        "question" : [ "351", "777" ],
+        "answer" : "fairyland|fairy land",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1996",
+        "hint3" : "Author: Paul J. McAuley",
+        "anstext" : "<i>Fairyland</i> by Paul J. McAuley won the Arthur C. Clarke award in 1996."
+    },
+    {
+        "category" : "books",
+        "question" : [ "98", "98" ],
+        "answer" : "fools",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1995",
+        "hint3" : "Author: Pat Cadigan",
+        "anstext" : "<i>Fools</i> by Pat Cadigan won the Arthur C. Clarke award in 1995."
+    },
+    {
+        "category" : "books",
+        "question" : [ "379", "748" ],
+        "answer" : "body glass|body of glass",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 1993",
+        "hint3" : "Author: Marge Piercy",
+        "anstext" : "<i>Body of Glass</i> by Marge Piercy won the Arthur C. Clarke award in 1993."
+    },
+    {
+        "category" : "books",
+        "question" : [ "204", "628", "628" ],
+        "answer" : "the child garden|child garden",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1990",
+        "hint3" : "Author: Geoff Ryman",
+        "anstext" : "<i>The Child Garden</i> by Geoff Ryman won the Arthur C. Clarke award in 1990."
+    },
+    {
+        "category" : "books",
+        "question" : [ "986", "1421", "953" ],
+        "answer" : "the sea and the summer|the sea and summer|sea and summer|sea and the summer",
+        "hint1" : "The (2 words) the (1 word)",
+        "hint2" : "Year: 1987",
+        "hint3" : "Author: George Turner",
+        "anstext" : "<i>The Sea and the Summer</i> by George Turner won the Arthur C. Clarke award in 1987."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1507", "1077", "1077" ],
+        "answer" : "red shirts|redshirts",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2013",
+        "hint3" : "Author: John Scalzi",
+        "anstext" : "<i>Redshirts</i> by John Scalzi won the Hugo Best Novel award in 2013."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1514", "1209" ],
+        "answer" : "blackout|black out",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2011",
+        "hint3" : "Author: Connie Willis",
+        "anstext" : "<i>Blackout</i> (and its sequel <i>All Clear</i>) by Connie Willis won the Hugo Best Novel award in 2011."
+    },
+    {
+        "category" : "books",
+        "question" : [ "972", "1347", "206" ],
+        "answer" : "windup girl|the windup girl|wind up girl|the wind up girl",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2010",
+        "hint3" : "Author: Paolo Bacigalupi",
+        "anstext" : "<i>The Windup Girl</i> by Paolo Bacigalupi won the Hugo Best Novel award in 2010."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1317", "1180" ],
+        "answer" : "the graveyard book|graveyard book|the grave yard book|grave yard book",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2009",
+        "hint3" : "Author: Neil Gaiman",
+        "anstext" : "<i>The Graveyard Book</i> by Neil Gaiman won the Hugo Best Novel award in 2009."
+    },
+    {
+        "category" : "books",
+        "question" : [ "974", "974", "1364" ],
+        "answer" : "rainbows end",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2007",
+        "hint3" : "Author: Vernor Vinge",
+        "anstext" : "<i>Rainbows End</i> by Vernor Vinge won the Hugo Best Novel award in 2007."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1789", "338", "338" ],
+        "answer" : "american gods",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2002",
+        "hint3" : "Author: Neil Gaiman",
+        "anstext" : "<i>American Gods</i> by Neil Gaiman won the Hugo Best Novel award in 2002."
+    },
+    {
+        "category" : "books",
+        "question" : [ "205", "979", "754", "984" ],
+        "answer" : "harry potter goblet fire|harry potter and the goblet of fire|harry potter and goblet of fire|goblet of fire",
+        "hint1" : "(2 words) and the (1 word) of (1 word)",
+        "hint2" : "Year: 2001",
+        "hint3" : "Author: J.K. Rowling",
+        "anstext" : "<i>Harry Potter and the Goblet of Fire</i> by J.K. Rowling won the Hugo Best Novel award in 2001."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1424", "1377" ],
+        "answer" : "forever peace",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1998",
+        "hint3" : "Author: Joe Haldeman",
+        "anstext" : "<i>Forever Peace</i> by Joe Haldeman won the Hugo Best Novel award in 1998."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1511", "1507", "956" ],
+        "answer" : "blue mars",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1997",
+        "hint3" : "Author: Kim Stanley Robinson",
+        "anstext" : "<i>Blue Mars</i> by Kim Stanley Robinson won the Hugo Best Novel award in 1997."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1058", "738" ],
+        "answer" : "the diamond age|diamond age",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1996",
+        "hint3" : "Author: Neal Stephenson",
+        "anstext" : "<i>The Diamond Age</i> by Neal Stephenson won the Hugo Best Novel award in 1996."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1293", "396" ],
+        "answer" : "mirror dance",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1995",
+        "hint3" : "Author: Lois McMaster Bujold",
+        "anstext" : "<i>Mirror Dance</i> by Lois McMaster Bujold won the Hugo Best Novel award in 1995."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1510", "1507", "956" ],
+        "answer" : "green mars",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1994",
+        "hint3" : "Author: Kim Stanley Robinson",
+        "anstext" : "<i>Green Mars</i> by Kim Stanley Robinson won the Hugo Best Novel award in 1994."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1117", "1461", "95" ],
+        "answer" : "speaker for the dead|speaker for dead|speaker 4 the dead|speaker 4 dead",
+        "hint1" : "(2 words) the (1 word)",
+        "hint2" : "Year: 1987",
+        "hint3" : "Author: Orson Scott Card",
+        "anstext" : "<i>Speaker for the Dead</i> by Orson Scott Card won the Hugo Best Novel award in 1987."
+    },
+    {
+        "category" : "books",
+        "question" : [ "968", "321" ],
+        "answer" : "the snow queen|snow queen",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1981",
+        "hint3" : "Author: Joan D. Vinge",
+        "anstext" : "<i>The Snow Queen</i> by Joan D. Vinge won the Hugo Best Novel award in 1981."
+    },
+    {
+        "category" : "books",
+        "question" : [ "47", "150", "589" ],
+        "answer" : "dreamsnake|dream snake",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1979",
+        "hint3" : "Author: Vonda N. McIntyre",
+        "anstext" : "<i>Dreamsnake</i> by Vonda N. McIntyre won the Hugo Best Novel award in 1979."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1424", "1337", "1377" ],
+        "answer" : "the forever war|forever war",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1976",
+        "hint3" : "Author: Joe Haldeman",
+        "anstext" : "<i>The Forever War</i> by Joe Haldeman won the Hugo Best Novel award in 1976."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1114", "772" ],
+        "answer" : "ringworld|ring world",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1971",
+        "hint3" : "Author: Larry Niven",
+        "anstext" : "<i>Ringworld</i> by Larry Niven won the Hugo Best Novel award in 1971."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1353", "153", "1337", "1174" ],
+        "answer" : "the left hand of darkness|left hand of darkness",
+        "hint1" : "The (2 words) of (1 word)",
+        "hint2" : "Year: 1970",
+        "hint3" : "Author: Ursula K. Le Guin",
+        "anstext" : "<i>The Left Hand of Darkness</i> by Ursula K. Le Guin won the Hugo Best Novel award in 1970."
+    },
+    {
+        "category" : "books",
+        "question" : [ "320", "1174" ],
+        "answer" : "lord of light|lord light",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 1968",
+        "hint3" : "Author: Roger Zelazny",
+        "anstext" : "<i>Lord of Light</i> by Roger Zelazny won the Hugo Best Novel award in 1968."
+    },
+    {
+        "category" : "books",
+        "question" : [ "785", "956" ],
+        "answer" : "dune",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1966",
+        "hint3" : "Author: Frank Herbert",
+        "anstext" : "<i>Dune</i> by Frank Herbert won the Hugo Best Novel award in 1966."
+    },
+    {
+        "category" : "books",
+        "question" : [ "877", "844" ],
+        "answer" : "way station",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1964",
+        "hint3" : "Author: Clifford D. Simak",
+        "anstext" : "<i>Way Station</i> by Clifford D. Simak won the Hugo Best Novel award in 1964."
+    },
+    {
+        "category" : "books",
+        "question" : [ "957", "957" ],
+        "answer" : "double star",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1956",
+        "hint3" : "Author: Robert A. Heinlein",
+        "anstext" : "<i>Double Star</i> by Robert A. Heinlein won the Hugo Best Novel award in 1956."
+    },
+    {
+        "category" : "books",
+        "question" : [ "748", "379" ],
+        "answer" : "milkman|milk man",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2018",
+        "hint3" : "Author: Anna Burns",
+        "anstext" : "<i>Milkman</i> by Anna Burns won the Booker Prize in 2018."
+    },
+    {
+        "category" : "books",
+        "question" : [ "512", "811" ],
+        "answer" : "wolf hall",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2009",
+        "hint3" : "Author: Hilary Mantel",
+        "anstext" : "<i>Wolf Hall</i> by Hilary Mantel won the Booker Prize in 2009."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1515", "520" ],
+        "answer" : "the white tiger|white tiger",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2008",
+        "hint3" : "Author: Aravind Adiga",
+        "anstext" : "<i>The White Tiger</i> by Aravind Adiga won the Booker Prize in 2008."
+    },
+    {
+        "category" : "books",
+        "question" : [ "986" ],
+        "answer" : "sea|the sea",
+        "hint1" : "The (1 word)",
+        "hint2" : "Year: 2005",
+        "hint3" : "Author: John Banville",
+        "anstext" : "<i>The Sea</i> by John Banville won the Booker Prize in 2005."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1282", "741" ],
+        "answer" : "life of pi",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 2002",
+        "hint3" : "Author: Yann Martel",
+        "anstext" : "<i>Life of Pi</i> by Yann Martel won the Booker Prize in 2002."
+    },
+    {
+        "category" : "books",
+        "question" : [ "385", "316" ],
+        "answer" : "blind assassin|the blind assassin",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2000",
+        "hint3" : "Author: Margaret Atwood",
+        "anstext" : "<i>The Blind Assassin</i> by Margaret Atwood won the Booker Prize in 2000."
+    },
+    {
+        "category" : "books",
+        "question" : [ "101", "877" ],
+        "answer" : "the ghost road|ghost road",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1995",
+        "hint3" : "Author: Pat Barker",
+        "anstext" : "<i>The Ghost Road</i> by Pat Barker won the Booker Prize in 1995."
+    },
+    {
+        "category" : "books",
+        "question" : [ "940", "520" ],
+        "answer" : "moon tiger",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1987",
+        "hint3" : "Author: Penelope Lively",
+        "anstext" : "<i>Moon Tiger</i> by Penelope Lively won the Booker Prize in 1987."
+    },
+    {
+        "category" : "books",
+        "question" : [ "198", "456" ],
+        "answer" : "the bone people|bone people",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1985",
+        "hint3" : "Author: Keri Hulme",
+        "anstext" : "<i>The Bone People</i> by Keri Hulme won the Booker Prize in 1985."
+    },
+    {
+        "category" : "books",
+        "question" : [ "916", "1335" ],
+        "answer" : "midnights children|midnight's children",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1981",
+        "hint3" : "Author: Salman Rushdie",
+        "anstext" : "<i>Midnight's Children</i> by Salman Rushdie won the Booker Prize in 1981."
+    },
+    {
+        "category" : "books",
+        "question" : [ "986", "986" ],
+        "answer" : "the sea the sea|the sea, the sea|the sea sea|sea sea|sea, sea|the sea, sea",
+        "hint1" : "The (1 word), the (1 word)",
+        "hint2" : "Year: 1978",
+        "hint3" : "Author: Iris Murdoch",
+        "anstext" : "<i>The Sea, the Sea</i> by Iris Murdoch won the Booker Prize in 1978."
+    },
+    {
+        "category" : "books",
+        "question" : [ "1427", "1459", "1441", "1461" ],
+        "answer" : "something 2 answer 4|something 2 answer for|something to answer 4|something to answer for",
+        "hint1" : "4 words",
+        "hint2" : "Year: 1969",
+        "hint3" : "Author: P.H. Newby",
+        "anstext" : "<i>Something to Answer For</i> by P.H. Newby won the Booker Prize in 1969."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "321", "986" ],
+        "answer" : "moana",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2016",
+        "anstext" : "<i>Moana</i> is a Disney full-length animated feature from 2016."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1171", "1511", "598" ],
+        "answer" : "finding dory",
+        "hint1" : "2 words",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2016",
+        "anstext" : "<i>Finding Dory</i> is a Pixar full-length animated feature from 2016."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "551", "309" ],
+        "answer" : "zootopia",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2016",
+        "anstext" : "<i>Zootopia</i> is a Disney full-length animated feature from 2016."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "171", "592" ],
+        "answer" : "the good dinosaur|good dinosaur",
+        "hint1" : "The (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2015",
+        "anstext" : "<i>The Good Dinosaur</i> is a Disney full-length animated feature from 2015."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "32", "1046" ],
+        "answer" : "strange magic",
+        "hint1" : "2 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2015",
+        "anstext" : "<i>Strange Magic</i> is a Disney full-length animated feature from 2015."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1548", "351" ],
+        "answer" : "the pirate fairy|pirate fairy",
+        "hint1" : "The (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2014",
+        "anstext" : "<i>The Pirate Fairy</i> is a Disney full-length animated feature from 2014."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "321", "980" ],
+        "answer" : "frozen",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2013",
+        "anstext" : "<i>Frozen</i> is a Disney full-length animated feature from 2013."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "894", "894" ],
+        "answer" : "planes",
+        "hint1" : "1 word",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2013",
+        "anstext" : "<i>Planes</i> is a Pixar full-length animated feature from 2013."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "366", "508" ],
+        "answer" : "frankenweenie",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2012",
+        "anstext" : "<i>Frankenweenie</i> is a Disney full-length animated feature from 2012."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "321", "1808" ],
+        "answer" : "brave",
+        "hint1" : "1 word",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2012",
+        "anstext" : "<i>Brave</i> is a Pixar full-length animated feature from 2012."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1053", "746" ],
+        "answer" : "winnie pooh|winnie the pooh",
+        "hint1" : "(1 word) the (1 word)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2001",
+        "anstext" : "<i>Winnie the Pooh</i> is a Disney full-length animated feature from 2001."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "321", "585" ],
+        "answer" : "princess and the frog|the princess and the frog|princess frog",
+        "hint1" : "The (1 word) and the (1 word)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2009",
+        "anstext" : "<i>The Princess and the Frog</i> is a Disney full-length animated feature from 2009."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1347" ],
+        "answer" : "up",
+        "hint1" : "1 word",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2009",
+        "anstext" : "<i>Up</i> is a Pixar full-length animated feature from 2009."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "979" ],
+        "answer" : "bolt",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2008",
+        "anstext" : "<i>Bolt</i> is a Disney full-length animated feature from 2008."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "549", "275" ],
+        "answer" : "ratatouille",
+        "hint1" : "1 word",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2007",
+        "anstext" : "<i>Ratatouille</i> is a Pixar full-length animated feature from 2007."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "859", "859" ],
+        "answer" : "cars",
+        "hint1" : "1 word",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2006",
+        "anstext" : "<i>Cars</i> is a Pixar full-length animated feature from 2006."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "572", "159" ],
+        "answer" : "chicken little",
+        "hint1" : "2 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2005",
+        "anstext" : "<i>Chicken Little</i> is a Disney full-length animated feature from 2005."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "342", "471" ],
+        "answer" : "incredibles|the incredibles",
+        "hint1" : "The (1 word)",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2004",
+        "anstext" : "<i>The Incredibles</i> is a Pixar full-length animated feature from 2004."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "379", "1349", "557" ],
+        "answer" : "brother bear",
+        "hint1" : "2 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2003",
+        "anstext" : "<i>Brother Bear</i> is a Disney full-length animated feature from 2003."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1171", "203", "598" ],
+        "answer" : "finding nemo",
+        "hint1" : "2 words",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2003",
+        "anstext" : "<i>Finding Nemo</i> is a Pixar full-length animated feature from 2003."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1195", "956" ],
+        "answer" : "treasure planet",
+        "hint1" : "2 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2002",
+        "anstext" : "<i>Treasure Planet</i> is a Disney full-length animated feature from 2002."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "206", "1421", "102" ],
+        "answer" : "lilo & stitch|lilo and stitch|lilo stitch",
+        "hint1" : "3 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2002",
+        "anstext" : "<i>Lilo & Stitch</i> is a Disney full-length animated feature from 2002."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "81", "809" ],
+        "answer" : "monsters inc|monsters, inc.|monsters, inc.|monsters, inc",
+        "hint1" : "2 words",
+        "hint2" : "Pixar animated film",
+        "hint3" : "Year: 2001",
+        "anstext" : "<i>Monsters, Inc.</i> is a Pixar full-length animated feature from 2001."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "320", "1349", "541" ],
+        "answer" : "emperor's new groove|the emperor's new groove|the emperors new groove|emperors new groove",
+        "hint1" : "The (3 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2000",
+        "anstext" : "<i>The Emperor's New Groove</i> is a Disney full-length animated feature from 2000."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "592" ],
+        "answer" : "dinosaur",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2000",
+        "anstext" : "<i>Dinosaur</i> is a Disney full-length animated feature from 2000."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "520", "1165" ],
+        "answer" : "tigger movie|the tigger movie",
+        "hint1" : "The (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 2000",
+        "anstext" : "<i>The Tigger Movie</i> is a Disney full-length animated feature from 2000."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "505", "379" ],
+        "answer" : "tarzan",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1999",
+        "anstext" : "<i>Tarzan</i> is a Disney full-length animated feature from 1999."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1597", "215", "1259" ],
+        "answer" : "mulan",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1998",
+        "anstext" : "<i>Mulan</i> is a Disney full-length animated feature from 1998."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1642", "343", "186" ],
+        "answer" : "hercules",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1997",
+        "anstext" : "<i>Hercules</i> is a Disney full-length animated feature from 1997."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1628", "815", "1123" ],
+        "answer" : "the hunchback of notre dame|hunchback of notre dame",
+        "hint1" : "The (1 word) of (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1996",
+        "anstext" : "<i>The Hunchback of Notre Dame</i> is a Disney full-length animated feature from 1996."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "26", "1165" ],
+        "answer" : "goofy movie|a goofy movie",
+        "hint1" : "A (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1995",
+        "anstext" : "<i>A Goofy Movie</i> is a Disney full-length animated feature from 1995."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "518", "1105" ],
+        "answer" : "the lion king|lion king",
+        "hint1" : "The (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1994",
+        "anstext" : "<i>The Lion King</i> is a Disney full-length animated feature from 1994."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "95", "339" ],
+        "answer" : "nightmare before christmas|the nightmare before christmas",
+        "hint1" : "The (3 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1993",
+        "anstext" : "<i>The Nightmare Before Christmas</i> is a Disney full-length animated feature from 1993."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "205", "364" ],
+        "answer" : "aladdin",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1992",
+        "anstext" : "<i>Aladdin</i> is a Disney full-length animated feature from 1992."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "625" ],
+        "answer" : "beauty and the beast",
+        "hint1" : "(1 word) and the (1 word)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1991",
+        "anstext" : "<i>Beauty and the Beast</i> is a Disney full-length animated feature from 1991."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "547", "547", "1562" ],
+        "answer" : "rescuers 2|rescuers down under|the rescuers 2|the rescuers down under|rescuers|the rescuers",
+        "hint1" : "The (3 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1990",
+        "anstext" : "<i>The Rescuers Down Under</i> is a Disney full-length animated feature from 1990."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "159", "359" ],
+        "answer" : "the little mermaid|little mermaid",
+        "hint1" : "The (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1989",
+        "anstext" : "<i>The Little Mermaid</i> is a Disney full-length animated feature from 1989."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "171", "548", "310" ],
+        "answer" : "great mouse detective|the great mouse detective|basil|basil the great mouse detective",
+        "hint1" : "The (3 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1986",
+        "anstext" : "<i>The Great Mouse Detective</i> is a Disney full-length animated feature from 1986."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "513", "507" ],
+        "answer" : "fox and the hound|the fox and the hound",
+        "hint1" : "The (1 word) and the (1 word)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1981",
+        "anstext" : "<i>The Fox and the Hound</i> is a Disney full-length animated feature from 1981."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "632", "632", "1180" ],
+        "answer" : "the jungle book|jungle book",
+        "hint1" : "The (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1967",
+        "anstext" : "<i>The Jungle Book</i> is a Disney full-length animated feature from 1967."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1259", "1210", "792" ],
+        "answer" : "sword in the stone|the sword in the stone",
+        "hint1" : "The (2 words) the (1 word)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1963",
+        "anstext" : "<i>The Sword in the Stone</i> is a Disney full-length animated feature from 1963."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "47", "321" ],
+        "answer" : "sleeping beauty",
+        "hint1" : "2 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1959",
+        "anstext" : "<i>Sleeping Beauty</i> is a Disney full-length animated feature from 1959."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "206", "552", "144" ],
+        "answer" : "alice in wonderland|alice",
+        "hint1" : "3 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1951",
+        "anstext" : "<i>Alice in Wonderland</i> is a Disney full-length animated feature from 1951."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "321", "1100" ],
+        "answer" : "cinderella",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1950",
+        "anstext" : "<i>Cinderella</i> is a Disney full-length animated feature from 1950."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1125", "914" ],
+        "answer" : "melody time",
+        "hint1" : "2 words",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1948",
+        "anstext" : "<i>Melody Time</i> is a Disney full-length animated feature from 1948."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "203", "526" ],
+        "answer" : "bambi",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1942",
+        "anstext" : "<i>Bambi</i> is a Disney full-length animated feature from 1942."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "543", "617" ],
+        "answer" : "dumbo",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1941",
+        "anstext" : "<i>Dumbo</i> is a Disney full-length animated feature from 1941."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1126", "1103", "546" ],
+        "answer" : "fantasia",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1940",
+        "anstext" : "<i>Fantasia</i> is a Disney full-length animated feature from 1940."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "42" ],
+        "answer" : "pinocchio",
+        "hint1" : "1 word",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1940",
+        "anstext" : "<i>Pinocchio</i> is a Disney full-length animated feature from 1940."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "321", "12", "91", "88", "53", "72", "63", "56" ],
+        "answer" : "snow white|snow white and the seven dwarves|snow white and the 7 dwarves|7 dwarves|seven dwarves",
+        "hint1" : "(2 words) and the (2 words)",
+        "hint2" : "Disney animated film",
+        "hint3" : "Year: 1937",
+        "anstext" : "<i>Snow White and the Seven Dwarves</i> is a Disney full-length animated feature from 1937."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1691", "825" ],
+        "answer" : "casablanca",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1944",
+        "hint3" : "Director: Michael Curtiz",
+        "anstext" : "<i>Casablanca</i>, directed by Michael Curtiz, won the Academy Award for Best Picture in 1944."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1789", "207", "1210", "1628", "825" ],
+        "answer" : "an american in paris|american in paris",
+        "hint1" : "An (3 words)",
+        "hint2" : "Year: 1952",
+        "hint3" : "Director: Vincente Minnelli",
+        "anstext" : "<i>An American in Paris</i>, directed by Vincente Minnelli, won the Academy Award for Best Picture in 1952."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1490", "1349", "1424" ],
+        "answer" : "here to eternity|here 2 eternity",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1954",
+        "hint3" : "Director: Fred Zinnemann",
+        "anstext" : "<i>Here to Eternity</i>, directed by Fred Zinnemann, won the Academy Award for Best Picture in 1954."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1365", "784" ],
+        "answer" : "on the waterfront",
+        "hint1" : "(1 word) the (1 word)",
+        "hint2" : "Year: 1955",
+        "hint3" : "Director: Elia Kazan",
+        "anstext" : "<i>On the Waterfront</i>, directed by Elia Kazan, won the Academy Award for Best Picture in 1955."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1362", "772", "1210", "1465", "1457", "1230", "1230" ],
+        "answer" : "around the world in 80 days|around the world in eighty days",
+        "hint1" : "(1 word) the (4 words)",
+        "hint2" : "Year: 1957",
+        "hint3" : "Director: Michael Anderson",
+        "anstext" : "<i>Around the World in 80 Days</i>, directed by Michael Anderson, won the Academy Award for Best Picture in 1957."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "379", "1461", "630", "953", "641", "980" ],
+        "answer" : "a man for all seasons|man for all seasons|man 4 all seasons|a man 4 all seasons",
+        "hint1" : "A (4 words)",
+        "hint2" : "Year: 1967",
+        "hint3" : "Director: Fred Zinnemann",
+        "anstext" : "<i>A Man for All Seasons</i>, directed by Fred Zinnemann, won the Academy Award for Best Picture in 1967."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1210", "984", "824" ],
+        "answer" : "in the heat of the night",
+        "hint1" : "(1 word) the (1 word) of the (1 word)",
+        "hint2" : "Year: 1968",
+        "hint3" : "Director: Norman Jewison",
+        "anstext" : "<i>In the Heat of the Night</i>, directed by Norman Jewison, won the Academy Award for Best Picture in 1968."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1126", "205", "705", "1429" ],
+        "answer" : "oliver!|oliver",
+        "hint1" : "1 word (with punctuation)",
+        "hint2" : "Year: 1969",
+        "hint3" : "Director: Carol Reed",
+        "anstext" : "<i>Oliver!</i>, directed by Carol Reed, won the Academy Award for Best Picture in 1969."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "916", "59" ],
+        "answer" : "midnight cowboy|midnight cow boy",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1970",
+        "hint3" : "Director: John Schlesinger",
+        "anstext" : "<i>Midnight Cowboy</i>, directed by John Schlesinger, won the Academy Award for Best Picture in 1970."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1628", "1273" ],
+        "answer" : "the french connection|french connection",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1972",
+        "hint3" : "Director: William Friedkin",
+        "anstext" : "<i>The French Connection</i>, directed by William Friedkin, won the Academy Award for Best Picture in 1972."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "792", "1030" ],
+        "answer" : "rocky",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1977",
+        "hint3" : "Director: John G. Avildsen",
+        "anstext" : "<i>Rocky</i>, directed by John G. Avildsen, won the Academy Award for Best Picture in 1977."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "206", "1126", "811" ],
+        "answer" : "annie hall",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1978",
+        "hint3" : "Director: Woody Allen",
+        "anstext" : "<i>Annie Hall</i>, directed by Woody Allen, won the Academy Award for Best Picture in 1978."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "526", "379", "1263" ],
+        "answer" : "the derr hunter|deer hunter",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1979",
+        "hint3" : "Director: Michael Cimino",
+        "anstext" : "<i>The Deer Hunter</i>, directed by Michael Cimino, won the Academy Award for Best Picture in 1979."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1209", "772" ],
+        "answer" : "out of africa",
+        "hint1" : "(1 word) of (1 word)",
+        "hint2" : "Year: 1986",
+        "hint3" : "Director: Sydney Pollack",
+        "anstext" : "<i>Out of Africa</i>, directed by Sydney Pollack, won the Academy Award for Best Picture in 1986."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "967", "1418" ],
+        "answer" : "rainman|rain man",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1989",
+        "hint3" : "Director: Berry Levinson",
+        "anstext" : "<i>Rain Man</i>, directed by Berry Levinson, won the Academy Award for Best Picture in 1989."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "859", "228" ],
+        "answer" : "driving miss daisy",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1990",
+        "hint3" : "Director: Bruce Beresford",
+        "anstext" : "<i>Driving Miss Daisy</i>, directed by Bruce Beresford, won the Academy Award for Best Picture in 1990."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "396", "396", "512", "512" ],
+        "answer" : "dances with wolves",
+        "hint1" : "(1 word) with (1 word)",
+        "hint2" : "Year: 1991",
+        "hint3" : "Director: Kevin Costner",
+        "anstext" : "<i>Dances With Wolves</i>, directed by Kevin Costner, won the Academy Award for Best Picture in 1991."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "31", "537", "537" ],
+        "answer" : "silence of the lambs|the silence of the lambs",
+        "hint1" : "The (1 word) of the (1 word)",
+        "hint2" : "Year: 1992",
+        "hint3" : "Director: Jonathan Demme",
+        "anstext" : "<i>The Silence of the Lambs</i>, directed by Jonathan Demme, won the Academy Award for Best Picture in 1992."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "379", "1188" ],
+        "answer" : "schindlers list|schindler's list",
+        "hint1" : "2 words",
+        "hint2" : "Year: 1994",
+        "hint3" : "Director: Steven Spielberg",
+        "anstext" : "<i>Schindler's List</i>, directed by Steven Spielberg, won the Academy Award for Best Picture in 1994."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1808", "133" ],
+        "answer" : "braveheart|brave heart",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1996",
+        "hint3" : "Director: Mel Gibson",
+        "anstext" : "<i>Braveheart</i>, directed by Mel Gibson, won the Academy Award for Best Picture in 1996."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1807", "207", "802" ],
+        "answer" : "english patient|the english patient",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 1997",
+        "hint3" : "Director: Anthony Minghella",
+        "anstext" : "<i>The English Patient</i>, directed by Anthony Minghella, won the Academy Award for Best Picture in 1997."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "890", "765" ],
+        "answer" : "titanic",
+        "hint1" : "1 word",
+        "hint2" : "Year: 1998",
+        "hint3" : "Director: James Cameron",
+        "anstext" : "<i>Titanic</i>, directed by James Cameron, won the Academy Award for Best Picture in 1998."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "183", "15" ],
+        "answer" : "shakespeare in love",
+        "hint1" : "3 words",
+        "hint2" : "Year: 1999",
+        "hint3" : "Director: John Madden",
+        "anstext" : "<i>Shakespeare in Love</i>, directed by John Madden, won the Academy Award for Best Picture in 1999."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "171", "194" ],
+        "answer" : "a beautiful mind|beautiful mind",
+        "hint1" : "A (2 words)",
+        "hint2" : "Year: 2002",
+        "hint3" : "Director: Ron Howard",
+        "anstext" : "<i>A Beautiful Mind</i>, directed by Ron Howard, won the Academy Award for Best Picture in 2002."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "320", "1114", "1114" ],
+        "answer" : "lord of the rings|lotr|the lord of the rings",
+        "hint1" : "The (1 word) of the (1 word)",
+        "hint2" : "Year: 2004",
+        "hint3" : "Director: Peter Jackson",
+        "anstext" : "The third installment in the <i>The Lord of the Rings</i> trilogy, <i>The Return of the King</i>, directed by Peter Jackson, won the Academy Award for Best Picture in 2004."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1481", "1198", "203" ],
+        "answer" : "million dollar baby",
+        "hint1" : "3 words",
+        "hint2" : "Year: 2005",
+        "hint3" : "Director: Clint Eastwood",
+        "anstext" : "<i>Million Dollar Baby</i>, directed by Clint Eastwood, won the Academy Award for Best Picture in 2005."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "859", "140" ],
+        "answer" : "crash",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2006",
+        "hint3" : "Director: Paul Haggis",
+        "anstext" : "<i>Crash</i>, directed by Paul Haggis, won the Academy Award for Best Picture in 2006."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1316" ],
+        "answer" : "departed|the departed",
+        "hint1" : "The (1 word)",
+        "hint2" : "Year: 2007",
+        "hint3" : "Director: Martin Scorsese",
+        "anstext" : "<i>The Departed</i>, directed by Martin Scorsese, won the Academy Award for Best Picture in 2007."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1337", "777", "1461", "227", "227" ],
+        "answer" : "no country for old men|no country 4 old men",
+        "hint1" : "5 words",
+        "hint2" : "Year: 2008",
+        "hint3" : "Director: Joel and Ethan Coen",
+        "anstext" : "<i>No Country for Old Men</i>, directed by Joel and Ethan Coen, won the Academy Award for Best Picture in 2008."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1289", "1252" ],
+        "answer" : "hurt locker|the hurt locker",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2010",
+        "hint3" : "Director: Kathryn Bigelow",
+        "anstext" : "<i>The Hurt Locker</i>, directed by Kathryn Bigelow, won the Academy Award for Best Picture in 2010."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "320", "494" ],
+        "answer" : "kings speech|king's speech|the kings speech|the king's speech",
+        "hint1" : "The (2 words)",
+        "hint2" : "Year: 2011",
+        "hint3" : "Director: Tom Hooper",
+        "anstext" : "<i>The King's Speech</i>, directed by Tom Hooper, won the Academy Award for Best Picture in 2011."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "296" ],
+        "answer" : "artist|the artist",
+        "hint1" : "The (1 word)",
+        "hint2" : "Year: 2012",
+        "hint3" : "Director: Michael Hazanavicius",
+        "anstext" : "<i>The Artist</i>, directed by Michael Hazanavicius, won the Academy Award for Best Picture in 2012."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1453", "1337", "884" ],
+        "answer" : "argo",
+        "hint1" : "1 word, 2 syllables",
+        "hint2" : "Year: 2013",
+        "hint3" : "Director: Ben Affleck",
+        "anstext" : "<i>Argo</i>, directed by Ben Affleck, won the Academy Award for Best Picture in 2013."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "573", "1418"],
+        "answer" : "birdman|bird man",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2015",
+        "hint3" : "Director: Alejandro Gonzalez Innaritu",
+        "anstext" : "<i>Birdman</i>, directed by Alejandro Gonzalez Innaritu, won the Academy Award for Best Picture in 2015."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1507", "1174"],
+        "answer" : "spotlight|spot light",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2016",
+        "hint3" : "Director: Tom McCarthy",
+        "anstext" : "<i>Spotlight</i>, directed by Tom McCarthy, won the Academy Award for Best Picture in 2016."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "940", "1174" ],
+        "answer" : "moonlight|moon light",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2017",
+        "hint3" : "Director: Barry Jenkins",
+        "anstext" : "<i>Moonlight</i>, directed by Barry Jenkins, won the Academy Award for Best Picture in 2017."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "31", "505", "985" ],
+        "answer" : "the shape of water|shape of water|shape water|the shape water",
+        "hint1" : "The (1 word) of (1 word)",
+        "hint2" : "Year: 2018",
+        "hint3" : "Director: Guillermo del Toro",
+        "anstext" : "<i>The Shape of Water</i>, directed by Guillermo del Toro, won the Academy Award for Best Picture in 2018."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "898", "199" ],
+        "answer" : "parasite|the parasite|gisaengchung",
+        "hint1" : "1 word",
+        "hint2" : "Year: 2020",
+        "hint3" : "Director: Bong Joon Ho",
+        "anstext" : "<i>Parasite</i>, directed by Bong Joon Ho, won the Academy Award for Best Picture in 2020."
+    },
+    {
+        "category" : "movies",
+        "question" : [ "1181" ],
+        "answer" : "green book|greenbook",
+        "hint1" : "2 words",
+        "hint2" : "Year: 2019",
+        "hint3" : "Director: Peter Farrelly",
+        "anstext" : "<i>Green Book</i>, directed by Peter Farrelly, won the Academy Award for Best Picture in 2019."
+    }
+]
