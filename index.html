@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="resources/style.css" type="text/css"/>
+        <script src="resources/jquery-3.5.0.min.js" type="application/javascript"></script>
+        <script src="resources/emoji.js" type="application/javascript"></script>
+    </head>
+    <body>
+        <section class="header">
+            <p id="title">TITLE</p>
+        </section>
+        <section class="playarea">
+            <div class="category">
+                <p id="cat"></p>
+            </div>
+            <div class="question">
+                <p id="q"></p>
+                <p id="hint"></p>
+            </div>
+            <div class="answer">
+                <input id="ans" type="text"/>
+                <button id="submit">Guess</button>
+            </div>
+            <div class="hints">
+                <button id="hintbut">HINT</button>
+                <button id="giveup">DON'T KNOW</button>
+                <button id="quit">ENOUGH FOR NOW</button>
+            </div>
+            <div class="blur">
+            </div>
+            <div id="feedback">
+                <div class="close">
+                    <span>&#215;</span>
+                </div>
+                <p id="fbtext"></p>
+            </div>
+        </section>
+        <section class="results">
+            <p id="finalresult"></p>
+        </section>
+    </body>
+</html>
